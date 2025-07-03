@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Morales_Parcial2/static/css/main.f855e6bc.css",
+    "main.js": "/Morales_Parcial2/static/js/main.e4aad676.js",
+    "static/js/453.d12518db.chunk.js": "/Morales_Parcial2/static/js/453.d12518db.chunk.js",
+    "static/media/Zabdiel.jpg": "/Morales_Parcial2/static/media/Zabdiel.c4908f12adff94ccad30.jpg",
+    "index.html": "/Morales_Parcial2/index.html",
+    "main.f855e6bc.css.map": "/Morales_Parcial2/static/css/main.f855e6bc.css.map",
+    "main.e4aad676.js.map": "/Morales_Parcial2/static/js/main.e4aad676.js.map",
+    "453.d12518db.chunk.js.map": "/Morales_Parcial2/static/js/453.d12518db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e4aad676.js"
+  ]
+}
