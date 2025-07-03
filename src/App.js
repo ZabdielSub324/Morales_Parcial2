@@ -1,4 +1,4 @@
-import logo from './alumno.png';
+import logo from './Zabdiel.jpg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          JUAN PÉREZ SOSA  - EXAMEN PARCIAL 2
+          Morales Quiñones Zabdiel Javier  - EXAMEN PARCIAL 2
         </p>
         <a
           className="App-link"
